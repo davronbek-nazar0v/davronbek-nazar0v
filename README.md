@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Backend Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Studico.uz+from+scratch;Django+%2B+DRF+%2B+PostgreSQL;Backend+%7C+APIs+%7C+System+Design;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 About Me
