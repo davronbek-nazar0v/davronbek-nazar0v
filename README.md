@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
+
 **Infra & Deployment**
 <p>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
@@ -42,17 +43,6 @@
 |---|---|
 | **[Studico.uz](https://studico.uz)** | Educational technology platform — built from scratch, from architecture to content |
 | **PMER** | Project management SaaS dashboard with a custom light/dark UI system |
-
----
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davronbek-nazar0v&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davronbek-nazar0v&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
-</p>
 
 ---
 
